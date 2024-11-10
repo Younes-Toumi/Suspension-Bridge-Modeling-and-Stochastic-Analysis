@@ -1,86 +1,27 @@
-import time
-import multiprocessing
-import pickle
-
-from Header.model_solver import solve_sample
-from Header.PARAMETERS import *
-import Header.functions as func
-
 import numpy as np
-import matplotlib.pyplot as plt
+from monte_carlo import monte_carlo
+from form import form
+from model import *
 
+n_samples = 10
+x1 = np.random.randn(n_samples)
+x2 = np.random.randn(n_samples)
 
-# ---------------------------------------------------------------------------------------------------------------------- # 
-# 1. Defining our random variables -----------------------------------------------------------------             # 
-# ---------------------------------------------------------------------------------------------------------------------- # 
+rv_matrix = np.array([x1, x2]).T
 
+limit_state = 0.7
 
-N_samples = 3_000_000 # Number of samples
-
-rv_T, rv_E, rv_m1, rv_b1, rv_m2, rv_b2, rv_k, rv_F = func.generate_random_variables(N_samples)
-
-# We regroup our random variables into one matrix for later use
-rv_matrix = np.array([
-    rv_T,
-    rv_E,
-    rv_m1,
-    rv_b1,
-    rv_m2,
-    rv_b2,
-    rv_k,
-    rv_F
-]).T
-
-# ---------------------------------------------------------------------------------------------------------------------- # 
-# 2. Descritizing our bridge & specifying parameters for the solver --------------------------------------------------------------------------------- #
-# ---------------------------------------------------------------------------------------------------------------------- # 
-
-N_space = 51
-space_points = np.linspace(0, L, N_space)
-
-dx = space_points[1] - space_points[0]
-
-dt = 0.025
-period = 200
-time_points = np.arange(0, period, dt)
-N_time = len(time_points)
-
-
-# ---------------------------------------------------------------------------------------------------------------------- # 
-# 3. Solving our model and running calculations ----------------------------------------------------------------------- #
-# ---------------------------------------------------------------------------------------------------------------------- # 
 
 if __name__ == '__main__':
+    # Monte Carlo #
+    # response, performance = evaluate_model(rv_matrix, mathematical_model, limit_state, use_multiprocessing=True)
+    # prob_failure, coef_var = monte_carlo(response) # Works
 
-    max_displacement = -3.3 # [m] Maximum downward deflection of -3.3 [m]
-    
-    t1 = time.time()
-    with multiprocessing.Pool() as pool:
-        # Parallelize the loop
-        u_array = pool.starmap(solve_sample, [(i, rv_T, rv_E, rv_m1, rv_b1, rv_m2, rv_b2, rv_k, rv_F, dt, N_time, time_points, period, N_space, space_points, L, I) for i in range(N_samples)])
+    # FORM #
+    delta_z = 0.5
+    rv_sns_array = [
+        lambda z: 0 + 1*z,
+        lambda z: 0 + 1*z
+    ]
 
-    t2 = time.time()
-
-    u_array = np.array(u_array)
-
-    failed_samples = np.sum(u_array < max_displacement)
-    Pf = failed_samples/N_samples
-
-    print(f"Solved the model in: {(t2-t1):.3f} [s]")
-    print(f"Out of {N_samples:_} samples, {failed_samples:_} failed -> Probability of failure {Pf:.3e}")
-
-    with open('Results\\stored_result.pickle', 'wb') as file:
-        
-        stored_data = {
-            'N_samples': N_samples,
-            'rv_matrix': rv_matrix,
-            'u_array': u_array,
-            'Pf': Pf
-        }
-        
-        pickle.dump(stored_data, file)
-
-
-
-# Solved the model in: 10637.751 [s]
-# Out of 3_000_000 samples, 14 failed -> Probability of failure 4.667e-06
+    prob_failure = form(rv_matrix, limit_state, delta_z, rv_sns_array)
