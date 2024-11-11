@@ -1,5 +1,7 @@
 from scipy.stats import norm
-from model import evaluate_model, mathematical_model
+from mathematical_model import mathematical_model
+from header import evaluate_model
+
 import numpy as np
 
 def form(rv_matrix, limit_state, delta_z, rv_sns_array):
