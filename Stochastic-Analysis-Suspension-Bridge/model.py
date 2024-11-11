@@ -36,7 +36,6 @@ def evaluate_model(rv_matrix: np.ndarray, mathematical_model: Callable, limit_st
 
     if rv_matrix.ndim == 1: # Treating the special case where we want to evaluate the model for one sample, this will be usefull when calling the `form` function
         stochastic_response = mathematical_model(*rv_matrix)
-        print(rv_matrix, stochastic_response)
 
     else:
 

@@ -1,7 +1,5 @@
 import numpy as np
 from scipy.integrate import solve_ivp
-from matplotlib import cm
-import matplotlib.pyplot as plt
 from model_parameters import *
 
 def system_of_odes(t, S, n):
