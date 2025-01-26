@@ -1,0 +1,169 @@
+Line ICE 2:
+* Düsseldorf - Köln Messe/Deutz - Frankfurt - Nuremberg - Munich
+
+Line ICE 4:
+* Kiel - Neumünster - Hamburg - Hannover - Frankfurt - Mannheim - Stuttgart
+* Hamburg - Hannover - Frankfurt - Mannheim - Stuttgart
+
+Line ICE 8:
+* Berlin - Halle - Erfurt - Nuremberg - Munich
+
+Line ICE 9:
+* Berlin - Cologne - Bonn
+
+Line ICE 10:
+* Berlin - Stendal - Wolfsburg - Hanover - Minden - Herford - Bielefeld - Gütersloh - Hamm - Dortmund - Bochum - Essen - Duisburg - Düsseldorf - Cologne
+* Berlin - Stendal - Wolfsburg - Hanover - Minden - Herford - Bielefeld - Gütersloh - Hamm - Dortmund - Bochum - Essen - Duisburg - Düsseldorf - Neuss - Mönchengladbach - Rheydt - Erkelenz - Geilenkirchen - Aachen
+* Berlin - Stendal - Wolfsburg - Hanover - Minden - Herford - Bielefeld - Gütersloh - Hamm - Hagen - Wuppertal - Solingen - Cologne
+* Berlin - Stendal - Wolfsburg - Hanover - Nienburg - Verden - Bremen - Delmenhorst - Oldenburg
+
+Line ICE 11:
+* Hamburg - Berlin - Wittenberg - Leipzig - Erfurt - Eisenach - Fulda - Frankfurt - Mannheim - Stuttgart - Ulm - Augsburg - Munich - Rosenheim
+* Berlin - Wittenberg - Leipzig - Erfurt - Eisenach - Fulda - Frankfurt - Mannheim - Stuttgart - Ulm - Augsburg - Munich - Rosenheim
+
+Line ICE 12:
+* Berlin - Wolfsburg - Braunschweig - Hildesheim - Göttingen - Kassel - Fulda - Hanau - Frankfurt - Mannheim - Karlsruhe - Baden-Baden - Offenburg - Freiburg
+* Berlin - Wolfsburg - Braunschweig - Hildesheim - Göttingen - Kassel - Fulda - Hanau - Frankfurt - Mannheim - Karlsruhe - Baden-Baden - Offenburg - Freiburg
+
+Line ICE 13:
+* Berlin - Stendal - Brunswick - Hildesheim - Göttingen - Kassel-Wilhelmshöhe - Fulda - Hanau - Frankfurt
+* Berlin - Stendal - Brunswick - Hildesheim - Göttingen - Kassel-Wilhelmshöhe - Fulda - Hanau - Frankfurt
+
+
+Line ICE 14:
+* Berlin - Wolfsburg - Hanover - Osnabrück - Münster - Recklinghausen - Essen - Mülheim - Duisburg - Düsseldorf - Cologne - Düren - Aachen
+* Berlin - Wolfsburg - Hanover - Herford - Bielefeld - Gütersloh - Hamm - Dortmund - Bochum - Essen - Mülheim - Duisburg - Krefeld - Viersen - Mönchengladbach - Rheydt - Erkelenz - Geilenkirchen - Herzogenrath - Aachen
+* Berlin - Wolfsburg - Hanover - Osnabrück - Münster - Recklinghausen - Essen - Mülheim - Duisburg - Krefeld - Viersen - Mönchengladbach - Rheydt - Erkelenz - Geilenkirchen - Herzogenrath - Aachen
+* Berlin - Wolfsburg - Hanover - Herford - Bielefeld - Gütersloh - Hamm - Dortmund - Bochum - Essen - Mülheim - Duisburg - Düsseldorf - Cologne - Düren - Aachen
+
+Line ICE 15:
+* Binz - Bergen auf Rügen - Stralsund - Greifswald - Züssow - Anklam - Pasewalk - Prenzlau - Eberswalde - Berlin - Halle - Erfurt - Frankfurt - Darmstadt - Bensheim - Weinheim - Heidelberg - Vaihingen - Stuttgart
+* Binz - Bergen auf Rügen - Stralsund - Greifswald - Züssow - Anklam - Pasewalk - Prenzlau - Eberswalde - Berlin - Halle - Erfurt - Frankfurt - Darmstadt - Bensheim - Mannheim - Neustadt - Kaiserslautern - Homburg - Saarbrücken
+* Hamburg - Büchen - Ludwigslust - Wittenberge - Berlin - Halle - Erfurt - Frankfurt - Darmstadt - Bensheim - Weinheim - Heidelberg - Vaihingen - Stuttgart
+* Hamburg - Büchen - Ludwigslust - Wittenberge - Berlin - Halle - Erfurt - Frankfurt - Darmstadt - Bensheim - Mannheim - Neustadt - Kaiserslautern - Homburg - Saarbrücken
+
+Line ICE 17:
+* Warnemünde - Rostock - Waren - Neustrelitz - Oranienburg - Berlin
+
+Line ICE 19:
+* Berlin - Hannover - Bielefeld - Hagen - Wuppertal - Cologne - Bonn - Remagen - Andernach - Koblenz - Bingen - Mainz - Mannheim - Heidelberg - Stuttgart
+
+Line ICE 21:
+* Binz - Bergen auf Rügen - Stralsund - Greifswald - Züssow - Anklam - Pasewalk - Prenzlau - Angermünde - Eberswalde - Berlin
+
+Line ICE 18:
+* Hamburg - Ludwigslust - Wittenberge - Berlin - Bitterfeld - Halle - Erfurt - Coburg - Bamberg - Erlangen - Nuremberg - Treuchtlingen - Donauwörth - Augsburg - Munich
+* Hamburg - Ludwigslust - Wittenberge - Berlin - Bitterfeld - Halle - Erfurt - Coburg - Bamberg - Erlangen - Nuremberg - Ingolstadt - Munich
+* Berlin - Bitterfeld - Halle - Erfurt - Coburg - Bamberg - Erlangen - Nuremberg - Treuchtlingen - Donauwörth - Augsburg - Munich
+* Berlin - Bitterfeld - Halle - Erfurt - Coburg - Bamberg - Erlangen - Nuremberg - Ingolstadt - Munich
+
+Line ICE 20:
+* Kiel - Neumünster - Hamburg - Lüneburg - Uelzen - Hannover - Göttingen - Kassel-Wilhelmshöhe - Fulda - Hanau - Frankfurt - Mannheim - Karlsruhe - Baden-Baden - Freiburg
+* Kiel - Neumünster - Hamburg - Lüneburg - Uelzen - Hannover - Göttingen - Kassel-Wilhelmshöhe - Fulda - Hanau - Frankfurt - Mainz - Wiesbaden
+
+Line ICE 22:
+* Hamburg - Hannover - Göttingen - Kassel-Wilhelmshöhe - Frankfurt - Mannheim - Heidelberg - Stuttgart
+* Oldenburg - Bremen - Hannover - Göttingen - Kassel-Wilhelmshöhe - Frankfurt - Mannheim - Heidelberg - Stuttgart
+
+Line ICE 24:
+* Hamburg - Lüneburg - Uelzen - Celle - Hanover - Göttingen - Kassel - Fulda - Würzburg - Ansbach - Treuchtlingen - Donauwörth - Augsburg - Munich - Rosenheim
+* Hamburg - Lüneburg - Uelzen - Celle - Hanover - Göttingen - Kassel - Fulda - Würzburg - Ansbach - Treuchtlingen - Donauwörth - Augsburg - Munich - Rosenheim - Bad Endorf - Prien - Übersee - Traunstein - Freilassing - Ainring - Hammerau - Piding - Bad Reichenhall - Bayerisch Gmain - Bischofswiesen - Berchtesgaden
+* Hamburg - Lüneburg - Uelzen - Celle - Hanover - Göttingen - Kassel - Fulda - Würzburg - Ansbach - Treuchtlingen - Donauwörth - Augsburg - Buchloe - Kaufbeuren - Kempten - Immenstadt - Sonthofen - Fischen - Oberstdorf
+
+Line ICE 25:
+* Lübeck - Hamburg - Lüneburg - Uelzen - Celle - Hanover - Göttingen - Kassel - Fulda - Würzburg - Nuremberg - Ingolstadt - Munich
+* Oldenburg - Delmenhorst - Bremen - Verden - Nienburg - Hanover - Göttingen - Kassel - Fulda - Würzburg - Nuremberg - Ingolstadt - Munich
+
+Line ICE 26:
+* Hamburg - Lüneburg - Bad Bevensen - Uelzen - Celle - Langenhagen - Hanover - Göttingen - Kassel-Wilhelmshöhe - Wabern - Treysa - Marburg - Gießen - Friedberg - Frankfurt - Darmstadt - Bensheim - Weinheim - Heidelberg - Wiesloch-Walldorf - Bruchsal - Karlsruhe
+
+Line ICE 27:
+* Berlin - Dresden
+
+Line ICE 28:
+* Binz - Bergen - Stralsund - Greifswald - Züssow - Anklam - Pasewalk - Prenzlau - Angermünde - Eberswalde - Bernau - Berlin - Lutherstadt Wittenberg - Leipzig - Erfurt - Coburg - Bamberg - Erlangen - Nuremberg - Ingolstadt - Munich
+* Binz - Bergen - Stralsund - Greifswald - Züssow - Anklam - Pasewalk - Prenzlau - Angermünde - Eberswalde - Bernau - Berlin - Lutherstadt Wittenberg - Leipzig - Weißenfels - Naumburg - Jena
+* Hamburg - Büchen - Ludwigslust - Wittenberge - Berlin - Lutherstadt Wittenberg - Leipzig - Erfurt - Coburg - Bamberg - Erlangen - Nuremberg - Ingolstadt - Munich
+* Hamburg - Büchen - Ludwigslust - Wittenberge - Berlin - Lutherstadt Wittenberg - Leipzig - Weißenfels - Naumburg - Jena
+
+Line ICE 29:
+* Hamburg - Berlin - Halle - Erfurt - Nuremberg - Munich
+
+Line ICE 32:
+* Cologne - Bonn - Remagen - Andernach - Koblenz - Bingen - Mainz - Mannheim - Heidelberg - Stuttgart - Ulm - Biberach - Ravensburg - Friedrichshafen Stadt - Lindau
+
+Line ICE 35:
+* Norddeich Mole - Emden - Rheine - Münster - Gelsenkirchen - Oberhausen - Duisburg - Düsseldorf - Cologne - Bonn - Koblenz
+
+Line ICE 39:
+* Hamburg - Münster - Essen - Duisburg - Düsseldorf - Cologne
+
+Line ICE 41:
+* Dortmund - Bochum - Essen - Duisburg - Düsseldorf - Köln Messe/Deutz - Cologne - Siegburg/Bonn - Montabaur - Limburg Süd - Frankfurt - Aschaffenburg - Würzburg - Nuremberg - Munich - Tutzing - Weilheim - Murnau - Oberau - Garmisch-Partenkirchen
+
+Line ICE 42:
+* Hamburg - Bremen - Osnabrück - Münster - Dortmund - Hagen - Wuppertal - Solingen - Cologne - Siegburg/Bonn - Frankfurt - Mannheim - Stuttgart - Ulm - Augsburg - Munich
+* Kiel - Neumünster - Hamburg - Bremen - Osnabrück - Münster - Dortmund - Hagen - Wuppertal - Solingen - Cologne - Siegburg/Bonn - Frankfurt - Mannheim - Stuttgart - Ulm - Augsburg - Munich
+
+Line ICE 43:
+* Hamburg - Bremen - Osnabrück - Münster - Dortmund - Bochum - Essen - Duisburg - Düsseldorf - Cologne - Frankfurt - Mannheim - Karlsruhe - Offenburg - Freiburg
+* Hannover - Minden - Herford - Bielefeld - Gütersloh - Hamm - Dortmund - Hagen - Wuppertal - Solingen - Cologne - Frankfurt - Mannheim - Karlsruhe - Offenburg - Freiburg
+* Oberhausen - Duisburg - Düsseldorf - Cologne - Frankfurt - Mannheim - Karlsruhe - Offenburg - Freiburg
+
+Line ICE 45:
+* Cologne - Siegburg/Bonn - Montabaur - Limburg Süd - Wiesbaden - Mainz - Mannheim - Heidelberg - Vaihingen - Stuttgart
+
+Line ICE 47:
+* Dortmund - Bochum - Essen - Duisburg - Düsseldorf - Köln Messe/Deutz - Frankfurt - Mannheim - Stuttgart - Ulm - Augsburg - Munich
+
+Line ICE 49:
+* Cologne - Siegburg/Bonn - Montabaur - Limburg Süd - Frankfurt
+
+Line ICE 50:
+* Dresden - Riesa - Leipzig - Erfurt - Gotha - Eisenach - Fulda - Frankfurt - Mainz - Wiesbaden
+
+Line ICE 55:
+* Dresden - Riesa - Leipzig - Halle - Köthen - Magdeburg - Braunschweig - Hanover - Minden - Herford - Bielefeld - Gütersloh - Hamm - Dortmund - Hagen - Wuppertal - Solingen - Cologne - Bonn - Koblenz - Mainz - Mannheim - Heidelberg - Vaihingen - Stuttgart
+
+Line ICE 60:
+* Freiburg - Offenburg - Baden-Baden - Karlsruhe - Stuttgart - Ulm - Augsburg - Munich
+
+Line ICE 62:
+* Frankfurt - Darmstadt - Bensheim - Weinheim - Heidelberg - Stuttgart - Ulm - Günzburg - Augsburg - Munich - Rosenheim - Prien - Traunstein - Freilassing
+* Duisburg - Düsseldorf - Cologne - Bonn - Remagen - Andernach - Koblenz - Bingen - Mainz - Worms - Mannheim - Vaihingen - Stuttgart - Ulm - Günzburg - Augsburg - Munich - Rosenheim - Prien - Traunstein - Freilassing
+
+Line ICE 77:
+* Münster - Osnabrück - Bünde - Hanover - Berlin
+
+Line ICE 78:
+* Oberhausen - Duisburg - Düsseldorf - Cologne - Frankfurt
+
+Line ICE 79:
+* Aachen - Cologne - Frankfurt
+
+Line ICE 82:
+* Frankfurt - Mannheim - Kaiserslautern - Saarbrücken - Forbach
+* Frankfurt - Mannheim - Karlsruhe
+
+Line ICE 83:
+* Munich - Augsburg - Ulm - Stuttgart - Karlsruhe
+
+Line ICE 84:
+* Frankfurt - Mannheim - Karlsruhe - Baden-Baden
+
+Line ICE 85:
+* Frankfurt - Mannheim - Karlsruhe - Ringsheim - Freiburg
+
+Line ICE 88:
+* Munich - Buchloe - Memmingen - Lindau-Reutin
+
+Line ICE 89:
+* Munich - Rosenheim
+
+Line ICE 90:
+* Frankfurt - Mannheim - Stuttgart - Ulm - Günzburg - Augsburg - Munich
+
+Line ICE 91:
+* Dortmund - Bochum - Essen - Duisburg - Düsseldorf - Cologne - Bonn - Koblenz - Mainz - Frankfurt - Hanau - Würzburg - Nuremberg - Regensburg - Plattling - Passau
+* Dortmund - Hagen - Wuppertal - Solingen - Cologne - Bonn - Koblenz - Mainz - Frankfurt - Hanau - Würzburg - Nuremberg - Regensburg - Plattling - Passau
+* Hamburg - Hannover - Kassel-Wilhelmshöhe - Fulda - Würzburg - Nuremberg - Regensburg - Plattling - Passau

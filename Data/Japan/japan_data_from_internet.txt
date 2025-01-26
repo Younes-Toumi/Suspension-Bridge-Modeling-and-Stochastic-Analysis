@@ -1,0 +1,26 @@
+Line Tokaido:
+* Tokyo - Yokohama - Nagoya - Kyoto - Osaka
+
+Line Sanyo:
+* Osaka - Shin-Kobe - Himeji - Okayama - Hiroshima - Kokura – Fukuoka
+
+Line Tohoku:
+* Tokyo - Ueno - Omiya - Sendai - Morioka - Aomori
+
+Line Akita:
+* Tokyo - Ueno - Omiya - Sendai - Morioka - Tazawako - Kakunodate - Omagari - Akita
+
+Line Yamagata:
+* Tokyo - Ueno - Omiya - Utsunomiya - Koriyama - Fukushima - Yonezawa - Akayu - Kaminoyama-Onsen - Yamagata - Tendo - Sakurambo-Higashine - Murayama - Oishida - Shinjo
+
+Line Joetsu:
+* Tokyo - Ueno - Omiya - Nagaoka - Niigata
+
+Line Kyushu:
+* Fukuoka - Shin-Tosu - Kurume - Kumamoto - Sendai - Kagoshima-Chuo
+
+Line Hokkaido:
+* Aomori - Okutsugaru Imabetsu - Kikonai - Shin-Hakodate Hokuto
+
+Line Hokuriku:
+* Tokyo - Ueno - Omiya - Nagano - Toyama - Kanazawa - Komatsu - Kaga Onsen - Awara Onsen - Fukui - Echizen-Takefu - Tsuruga
